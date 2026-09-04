@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+Target 'AllExcludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'BrawlTracker_-15FC44FD53FAF230_PackageProduct' in project 'BrawlTracker'
+➜ Explicit dependency on target 'BrawlTracker_BrawlTracker' in project 'BrawlTracker'
+Target 'BrawlTracker_-15FC44FD53FAF230_PackageProduct' in project 'BrawlTracker'
+➜ Explicit dependency on target 'BrawlTracker_BrawlTracker' in project 'BrawlTracker'
+Target 'BrawlTracker_BrawlTracker' in project 'BrawlTracker' (no dependencies)

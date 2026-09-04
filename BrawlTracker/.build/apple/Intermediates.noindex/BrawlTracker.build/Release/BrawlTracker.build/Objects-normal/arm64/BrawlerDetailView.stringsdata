@@ -1,0 +1,104 @@
+{
+  "source": "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hide from Ranked assistant",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "Resources",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "Levels + gadget 1k · star power 2k · gear 1k · hyper 5k · buffy 1k + 2k PP",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "None owned",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 217
+        }
+      },
+      {
+        "comment": "",
+        "key": "Owned",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 201
+        }
+      },
+      {
+        "comment": "",
+        "key": "Not released / not owned",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 201
+        }
+      },
+      {
+        "comment": "",
+        "key": "Buffy",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 237
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lv %lld",
+        "location": {
+          "startingColumn": 37,
+          "startingLine": 268
+        }
+      },
+      {
+        "comment": "",
+        "key": "Not owned",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 311
+        }
+      },
+      {
+        "comment": "",
+        "key": "coins",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 378
+        }
+      },
+      {
+        "comment": "",
+        "key": "PP",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 383
+        }
+      }
+    ]
+  },
+  "version": 1
+}

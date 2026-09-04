@@ -1,0 +1,104 @@
+{
+  "source": "/Applications/BrawlTracker/Sources/BrawlTracker/BrawlTrackerApp.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Go",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Refresh from API",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Refresh from the API (⌘R)",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 102,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "No brawlers loaded",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 150
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 168
+        }
+      },
+      {
+        "comment": "",
+        "key": "Retry",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 169
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connect",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 174
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fetching your account…",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 182
+        }
+      },
+      {
+        "comment": "",
+        "key": "SAMPLE",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 219
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 225
+        }
+      },
+      {
+        "comment": "",
+        "key": "Updated %@ ago",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 233
+        }
+      }
+    ]
+  },
+  "version": 1
+}

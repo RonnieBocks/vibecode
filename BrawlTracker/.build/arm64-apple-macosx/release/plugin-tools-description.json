@@ -1,0 +1,2429 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.xctest/Contents/MacOS/BrawlTrackerPackageTests",
+      "packagePath" : "/Applications/BrawlTracker",
+      "productName" : "BrawlTrackerPackageTests"
+    }
+  ],
+  "copyCommands" : {
+    "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker_BrawlTracker.bundle/BrawlerIcons" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Resources/BrawlerIcons"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker_BrawlTracker.bundle/BrawlerIcons"
+        }
+      ]
+    },
+    "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker_BrawlTracker.bundle/UIIcons" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Resources/UIIcons"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker_BrawlTracker.bundle/UIIcons"
+        }
+      ]
+    },
+    "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker_BrawlTracker.bundle/sample_player.json" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Resources/sample_player.json"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker_BrawlTracker.bundle/sample_player.json"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.BrawlTracker-arm64-apple-macosx-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/sources",
+      "importPath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/BrawlTrackerApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/BattleArchiveStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftConfigStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftLearning.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftSessionStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/JSONStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/Keychain.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/MapDataStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/MatchLogStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/PlayerStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/RankedSettings.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/ReferenceStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SeasonStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SkinStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SnapshotStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/TierListStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/Battle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlAPIReference.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlerCatalog.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlerRarity.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftChecklist.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftConfig.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/ArchitectureBoundary.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/AuthoringMetadata.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BalanceState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerAttribute.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerIdentity.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerKey.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerProfile.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/Capability.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/CapabilityModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/CapabilityResolver.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/DraftCoreSchema.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/DraftFunction.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/FormOverride.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/Interaction.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/InteractionModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/PilotRoster.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/RankedSeason.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch1.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch2.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch3.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch4.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch5.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/Trait.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftPlaybook.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/GameMap.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchAnalysis.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchRecord.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchTips.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/Player.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/UpgradeCosts.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/WinProbability.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Networking/BrawlAPIClient.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Networking/DevPortalClient.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BattlesView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerCard.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerDetailView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerIconView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/DraftModelView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/GamePlanView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MapsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MatchNotesEditor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MatchReviewView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MyBrawlersView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/ProgressionView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/RankedView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/Theme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/TierListView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/UIIcon.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/WardrobeView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<BrawlTracker-arm64-apple-macosx-release.module-resources>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "BrawlTracker",
+      "moduleOutputPath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/Modules/BrawlTracker.swiftmodule",
+      "objects" : [
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlTrackerApp.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BattleArchiveStore.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftConfigStore.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftLearning.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftSessionStore.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/JSONStore.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Keychain.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MapDataStore.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchLogStore.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/PlayerStore.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/RankedSettings.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/ReferenceStore.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeasonStore.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SkinStore.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SnapshotStore.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/TierListStore.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Battle.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlAPIReference.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerCatalog.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerRarity.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftChecklist.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftConfig.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/ArchitectureBoundary.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/AuthoringMetadata.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BalanceState.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerAttribute.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerIdentity.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerKey.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerProfile.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Capability.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/CapabilityModel.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/CapabilityResolver.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftCoreSchema.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftFunction.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/FormOverride.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Interaction.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/InteractionModel.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/PilotRoster.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/RankedSeason.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch1.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch2.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch3.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch4.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch5.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Trait.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftEngine.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftPlaybook.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/GameMap.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchAnalysis.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchRecord.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchTips.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Player.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/UpgradeCosts.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/WinProbability.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlAPIClient.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DevPortalClient.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BattlesView.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerCard.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerDetailView.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerIconView.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftModelView.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/GamePlanView.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MapsView.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchNotesEditor.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchReviewView.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MyBrawlersView.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/ProgressionView.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/RankedView.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SettingsView.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Theme.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/TierListView.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/UIIcon.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/WardrobeView.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-whole-module-optimization",
+        "-num-threads",
+        "18",
+        "-serialize-diagnostics",
+        "-O",
+        "-j18",
+        "-DSWIFT_PACKAGE",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+        "-module-cache-path",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "BrawlTracker_main",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "brawltracker"
+      ],
+      "outputFileMapPath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlTrackerApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BattleArchiveStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftConfigStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftLearning.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftSessionStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/JSONStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Keychain.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MapDataStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchLogStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/PlayerStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/RankedSettings.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/ReferenceStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeasonStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SkinStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SnapshotStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/TierListStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Battle.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlAPIReference.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerCatalog.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerRarity.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftChecklist.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftConfig.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/ArchitectureBoundary.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/AuthoringMetadata.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BalanceState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerAttribute.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerIdentity.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerKey.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerProfile.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Capability.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/CapabilityModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/CapabilityResolver.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftCoreSchema.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftFunction.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/FormOverride.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Interaction.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/InteractionModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/PilotRoster.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/RankedSeason.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch1.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch2.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch3.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch4.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch5.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Trait.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftEngine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftPlaybook.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/GameMap.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchAnalysis.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchRecord.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchTips.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Player.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/UpgradeCosts.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/WinProbability.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlAPIClient.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DevPortalClient.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BattlesView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerCard.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerDetailView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerIconView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftModelView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/GamePlanView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MapsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchNotesEditor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchReviewView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MyBrawlersView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/ProgressionView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/RankedView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/TierListView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/UIIcon.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/WardrobeView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/Modules/BrawlTracker.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Applications/BrawlTracker/Sources/BrawlTracker/BrawlTrackerApp.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Data/BattleArchiveStore.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftConfigStore.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftLearning.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftSessionStore.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Data/JSONStore.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Data/Keychain.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Data/MapDataStore.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Data/MatchLogStore.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Data/PlayerStore.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Data/RankedSettings.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Data/ReferenceStore.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SeasonStore.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SkinStore.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SnapshotStore.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Data/TierListStore.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/Battle.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlAPIReference.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlerCatalog.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlerRarity.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftChecklist.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftConfig.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/ArchitectureBoundary.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/AuthoringMetadata.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BalanceState.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerAttribute.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerIdentity.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerKey.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerProfile.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/Capability.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/CapabilityModel.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/CapabilityResolver.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/DraftCoreSchema.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/DraftFunction.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/FormOverride.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/Interaction.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/InteractionModel.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/PilotRoster.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/RankedSeason.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch1.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch2.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch3.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch4.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch5.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/Trait.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftEngine.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftPlaybook.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/GameMap.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchAnalysis.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchRecord.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchTips.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/Player.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/UpgradeCosts.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Models/WinProbability.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Networking/BrawlAPIClient.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Networking/DevPortalClient.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BattlesView.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerCard.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerDetailView.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerIconView.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/DraftModelView.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/GamePlanView.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MapsView.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MatchNotesEditor.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MatchReviewView.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MyBrawlersView.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/ProgressionView.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/RankedView.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/SettingsView.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/Theme.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/TierListView.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/UIIcon.swift",
+        "/Applications/BrawlTracker/Sources/BrawlTracker/Views/WardrobeView.swift",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build",
+      "wholeModuleOptimization" : true
+    },
+    "C.BrawlTrackerPackageTests-arm64-apple-macosx-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.build/sources",
+      "importPath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/Modules/BrawlTrackerTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "BrawlTrackerPackageTests",
+      "moduleOutputPath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/Modules/BrawlTrackerPackageTests.swiftmodule",
+      "objects" : [
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-whole-module-optimization",
+        "-num-threads",
+        "18",
+        "-serialize-diagnostics",
+        "-O",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j18",
+        "-DSWIFT_PACKAGE",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.build/include/BrawlTrackerPackageTests-Swift.h",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "brawltracker"
+      ],
+      "outputFileMapPath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/Modules/BrawlTrackerPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.build",
+      "wholeModuleOptimization" : true
+    },
+    "C.BrawlTrackerTests-arm64-apple-macosx-release.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/sources",
+      "importPath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Tests/BrawlTrackerTests/DraftCoreTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Tests/BrawlTrackerTests/DraftEngineTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Tests/BrawlTrackerTests/DraftFixesTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Tests/BrawlTrackerTests/PilotRosterTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Tests/BrawlTrackerTests/UpgradeCostsTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "BrawlTrackerTests",
+      "moduleOutputPath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/Modules/BrawlTrackerTests.swiftmodule",
+      "objects" : [
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/DraftCoreTests.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/DraftEngineTests.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/DraftFixesTests.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/PilotRosterTests.swift.o",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/UpgradeCostsTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-whole-module-optimization",
+        "-num-threads",
+        "18",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/index/store",
+        "-O",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j18",
+        "-DSWIFT_PACKAGE",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "brawltracker"
+      ],
+      "outputFileMapPath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/DraftCoreTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/DraftEngineTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/DraftFixesTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/PilotRosterTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/UpgradeCostsTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/Modules/BrawlTrackerTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Applications/BrawlTracker/Tests/BrawlTrackerTests/DraftCoreTests.swift",
+        "/Applications/BrawlTracker/Tests/BrawlTrackerTests/DraftEngineTests.swift",
+        "/Applications/BrawlTracker/Tests/BrawlTrackerTests/DraftFixesTests.swift",
+        "/Applications/BrawlTracker/Tests/BrawlTrackerTests/PilotRosterTests.swift",
+        "/Applications/BrawlTracker/Tests/BrawlTrackerTests/UpgradeCostsTests.swift"
+      ],
+      "tempsPath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "BrawlTracker" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "BrawlTracker",
+      "-package-name",
+      "brawltracker",
+      "-c",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/BrawlTrackerApp.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Data/BattleArchiveStore.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftConfigStore.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftLearning.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftSessionStore.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Data/JSONStore.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Data/Keychain.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Data/MapDataStore.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Data/MatchLogStore.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Data/PlayerStore.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Data/RankedSettings.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Data/ReferenceStore.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SeasonStore.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SkinStore.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SnapshotStore.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Data/TierListStore.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/Battle.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlAPIReference.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlerCatalog.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlerRarity.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftChecklist.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftConfig.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/ArchitectureBoundary.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/AuthoringMetadata.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BalanceState.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerAttribute.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerIdentity.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerKey.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerProfile.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/Capability.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/CapabilityModel.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/CapabilityResolver.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/DraftCoreSchema.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/DraftFunction.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/FormOverride.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/Interaction.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/InteractionModel.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/PilotRoster.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/RankedSeason.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch1.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch2.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch3.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch4.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch5.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/Trait.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftEngine.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftPlaybook.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/GameMap.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchAnalysis.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchRecord.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchTips.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/Player.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/UpgradeCosts.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Models/WinProbability.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Networking/BrawlAPIClient.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Networking/DevPortalClient.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BattlesView.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerCard.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerDetailView.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerIconView.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/DraftModelView.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/GamePlanView.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MapsView.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MatchNotesEditor.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MatchReviewView.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MyBrawlersView.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/ProgressionView.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/RankedView.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/SettingsView.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/Theme.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/TierListView.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/UIIcon.swift",
+      "/Applications/BrawlTracker/Sources/BrawlTracker/Views/WardrobeView.swift",
+      "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-whole-module-optimization",
+      "-num-threads",
+      "18",
+      "-serialize-diagnostics",
+      "-O",
+      "-j18",
+      "-DSWIFT_PACKAGE",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+      "-module-cache-path",
+      "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "BrawlTracker_main",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "brawltracker",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "BrawlTrackerPackageTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "BrawlTrackerPackageTests",
+      "-package-name",
+      "brawltracker",
+      "-c",
+      "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.derived/runner.swift",
+      "-I",
+      "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-whole-module-optimization",
+      "-num-threads",
+      "18",
+      "-serialize-diagnostics",
+      "-O",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j18",
+      "-DSWIFT_PACKAGE",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.build/include/BrawlTrackerPackageTests-Swift.h",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "brawltracker",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "BrawlTrackerTests" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "BrawlTrackerTests",
+      "-package-name",
+      "brawltracker",
+      "-c",
+      "/Applications/BrawlTracker/Tests/BrawlTrackerTests/DraftCoreTests.swift",
+      "/Applications/BrawlTracker/Tests/BrawlTrackerTests/DraftEngineTests.swift",
+      "/Applications/BrawlTracker/Tests/BrawlTrackerTests/DraftFixesTests.swift",
+      "/Applications/BrawlTracker/Tests/BrawlTrackerTests/PilotRosterTests.swift",
+      "/Applications/BrawlTracker/Tests/BrawlTrackerTests/UpgradeCostsTests.swift",
+      "-I",
+      "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-whole-module-optimization",
+      "-num-threads",
+      "18",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/index/store",
+      "-O",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j18",
+      "-DSWIFT_PACKAGE",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "brawltracker",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "BrawlTracker" : [
+
+    ],
+    "BrawlTrackerPackageTests" : [
+      "BrawlTrackerTests",
+      "BrawlTracker"
+    ],
+    "BrawlTrackerTests" : [
+      "BrawlTracker"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+    "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.derived/runner.swift" : {
+      "inputs" : [
+
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/BrawlTrackerApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/BattleArchiveStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftConfigStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftLearning.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftSessionStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/JSONStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/Keychain.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/MapDataStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/MatchLogStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/PlayerStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/RankedSettings.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/ReferenceStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SeasonStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SkinStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SnapshotStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Data/TierListStore.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/Battle.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlAPIReference.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlerCatalog.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlerRarity.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftChecklist.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftConfig.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/ArchitectureBoundary.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/AuthoringMetadata.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BalanceState.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerAttribute.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerIdentity.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerKey.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerProfile.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/Capability.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/CapabilityModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/CapabilityResolver.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/DraftCoreSchema.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/DraftFunction.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/FormOverride.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/Interaction.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/InteractionModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/PilotRoster.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/RankedSeason.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch1.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch2.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch3.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch4.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch5.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/Trait.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftEngine.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftPlaybook.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/GameMap.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchAnalysis.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchRecord.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchTips.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/Player.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/UpgradeCosts.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Models/WinProbability.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Networking/BrawlAPIClient.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Networking/DevPortalClient.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BattlesView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerCard.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerDetailView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerIconView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/DraftModelView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/GamePlanView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MapsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MatchNotesEditor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MatchReviewView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MyBrawlersView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/ProgressionView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/RankedView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/Theme.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/TierListView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/UIIcon.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Views/WardrobeView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/sources"
+    },
+    "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/ArchitectureBoundary.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/AuthoringMetadata.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BalanceState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Battle.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BattleArchiveStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BattlesView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlAPIClient.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlAPIReference.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlTrackerApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerAttribute.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerCard.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerCatalog.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerDetailView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerIconView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerIdentity.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerKey.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerProfile.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerRarity.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Capability.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/CapabilityModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/CapabilityResolver.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DevPortalClient.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftChecklist.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftConfig.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftConfigStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftCoreSchema.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftEngine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftFunction.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftLearning.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftModelView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftPlaybook.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftSessionStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/FormOverride.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/GameMap.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/GamePlanView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Interaction.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/InteractionModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/JSONStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Keychain.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MapDataStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MapsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchAnalysis.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchLogStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchNotesEditor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchRecord.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchReviewView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchTips.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MyBrawlersView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/PilotRoster.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Player.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/PlayerStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/ProgressionView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/RankedSeason.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/RankedSettings.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/RankedView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/ReferenceStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeasonStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch1.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch2.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch3.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch4.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch5.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SkinStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SnapshotStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/TierListStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/TierListView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Trait.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/UIIcon.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/UpgradeCosts.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/WardrobeView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/WinProbability.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/resource_bundle_accessor.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.product/Objects.LinkFileList"
+    },
+    "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.build/sources"
+    },
+    "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/ArchitectureBoundary.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/AuthoringMetadata.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BalanceState.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Battle.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BattleArchiveStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BattlesView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlAPIClient.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlAPIReference.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlTrackerApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerAttribute.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerCard.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerCatalog.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerDetailView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerIconView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerIdentity.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerKey.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerProfile.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/BrawlerRarity.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Capability.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/CapabilityModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/CapabilityResolver.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DevPortalClient.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftChecklist.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftConfig.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftConfigStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftCoreSchema.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftEngine.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftFunction.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftLearning.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftModelView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftPlaybook.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/DraftSessionStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/FormOverride.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/GameMap.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/GamePlanView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Interaction.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/InteractionModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/JSONStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Keychain.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MapDataStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MapsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchAnalysis.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchLogStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchNotesEditor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchRecord.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchReviewView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MatchTips.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/MyBrawlersView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/PilotRoster.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Player.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/PlayerStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/ProgressionView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/RankedSeason.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/RankedSettings.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/RankedView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/ReferenceStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeasonStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch1.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch2.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch3.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch4.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster+Batch5.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SeededRoster.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SkinStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/SnapshotStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Theme.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/TierListStore.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/TierListView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/Trait.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/UIIcon.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/UpgradeCosts.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/WardrobeView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/WinProbability.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTracker.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/DraftCoreTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/DraftEngineTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/DraftFixesTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/PilotRosterTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/UpgradeCostsTests.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.product/Objects.LinkFileList"
+    },
+    "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Tests/BrawlTrackerTests/DraftCoreTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Tests/BrawlTrackerTests/DraftEngineTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Tests/BrawlTrackerTests/DraftFixesTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Tests/BrawlTrackerTests/PilotRosterTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/BrawlTracker/Tests/BrawlTrackerTests/UpgradeCostsTests.swift"
+        }
+      ],
+      "outputFilePath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerTests.build/sources"
+    },
+    "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

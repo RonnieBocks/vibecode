@@ -1,0 +1,384 @@
+{
+  "source": "/Applications/BrawlTracker/Sources/BrawlTracker/Views/ProgressionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Progression",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start New Season",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "No active season",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start a season to snapshot your account now and keep a running tally of everything you gain.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start New Season",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Season",
+        "location": {
+          "startingColumn": 80,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name (e.g. Season 48)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Snapshots your account right now. Any open season is closed first.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log resources",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 69
+        }
+      },
+      {
+        "comment": "",
+        "key": "End season",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Started %@ · %lld days",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "GAINED THIS SEASON",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "· ranked games move Elo, not trophies",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "VALUE OF THIS SEASON'S PROGRESS",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nothing unlocked yet this season.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 146
+        }
+      },
+      {
+        "comment": "",
+        "key": "Power-level value will count once a launch snapshot exists after the season start (it's recorded on each live fetch).",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 160
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log your balances at season start and again as you go to track earned/spent currency.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Latest: %lld gold · %lld PP · %lld gems · %lld bling. Log again later to see the change.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 181
+        }
+      },
+      {
+        "comment": "",
+        "key": "RESOURCES (manual — not in the API)",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 169
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld entries",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 171
+        }
+      },
+      {
+        "comment": "",
+        "key": "PAST SEASONS",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 197
+        }
+      },
+      {
+        "comment": "",
+        "key": "Season",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 200
+        }
+      },
+      {
+        "comment": "",
+        "key": "Days",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 201
+        }
+      },
+      {
+        "comment": "",
+        "key": "Trophies",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 202
+        }
+      },
+      {
+        "comment": "",
+        "key": "Elo",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 203
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gadg",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 204
+        }
+      },
+      {
+        "comment": "",
+        "key": "SP",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 205
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gears",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 206
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hyper",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 207
+        }
+      },
+      {
+        "comment": "",
+        "key": "Buffy",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 208
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skins",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 209
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 210
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 217
+        }
+      },
+      {
+        "comment": "",
+        "key": "Log current balances",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 236
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter what you have right now. Differences between entries become your seasonal tally.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 237
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gold",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 240
+        }
+      },
+      {
+        "comment": "",
+        "key": "0",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 240
+        }
+      },
+      {
+        "comment": "",
+        "key": "Power Points",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 241
+        }
+      },
+      {
+        "comment": "",
+        "key": "0",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 241
+        }
+      },
+      {
+        "comment": "",
+        "key": "Gems",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 242
+        }
+      },
+      {
+        "comment": "",
+        "key": "0",
+        "location": {
+          "startingColumn": 51,
+          "startingLine": 242
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bling",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 243
+        }
+      },
+      {
+        "comment": "",
+        "key": "0",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 243
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 247
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 248
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,136 @@
+{
+  "source": "/Applications/BrawlTracker/Sources/BrawlTracker/Views/TierListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Reset “%@”?",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tier List",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Tier List…",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Duplicate…",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rename…",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Restore last reset (%@, %@)",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "Move all brawlers in this list back to Unranked",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset — move everyone to Unranked",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 86
+        }
+      },
+      {
+        "comment": "",
+        "key": "A backup is kept, and you can bring it back from the list menu with “Restore last reset”.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 93
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 94
+        }
+      },
+      {
+        "comment": "",
+        "key": "UNRANKED — %lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 184
+        }
+      }
+    ]
+  },
+  "version": 1
+}

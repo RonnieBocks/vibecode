@@ -1,0 +1,208 @@
+{
+  "source": "/Applications/BrawlTracker/Sources/BrawlTracker/Views/DraftModelView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Draft Model",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "every rule and weight the assistant uses",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset all to defaults",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "How suggestions are made",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Everything below is computed from four inputs you control: the **playbook rules** (roles per meta and per pick slot), your **tier list**, your **Ranked-Eligible** roster, and your **own results** (archived battles + logged ranked series). No hidden data; every number shown here is the live value and is editable in the other sections.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tip: hover any recommendation card in a draft to see its exact score breakdown.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 97
+        }
+      },
+      {
+        "comment": "",
+        "key": "DATA BALANCE",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 169
+        }
+      },
+      {
+        "comment": "",
+        "key": "Every brawler in every archived game is recorded from its own side's result, so opponents and teammates build records too — not just the brawlers you play.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 170
+        }
+      },
+      {
+        "comment": "",
+        "key": "Battles archived before this update kept no team list, so their opponents can't be counted. New fetches include them.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 183
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reset section",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 215
+        }
+      },
+      {
+        "comment": "",
+        "key": "MODE → META",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 227
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 231
+        }
+      },
+      {
+        "comment": "",
+        "key": "Callouts (comma-separated)",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 237
+        }
+      },
+      {
+        "comment": "",
+        "key": "Aggro",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 233
+        }
+      },
+      {
+        "comment": "",
+        "key": "Passive",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 233
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ — ROLE ORDER (most valuable first)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 246
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ — TARGET ROLES PER SLOT (empty = counter logic)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 259
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 250
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search brawlers",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 293
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 300
+        }
+      },
+      {
+        "comment": "",
+        "key": "Overridden",
+        "location": {
+          "startingColumn": 99,
+          "startingLine": 306
+        }
+      },
+      {
+        "comment": "",
+        "key": "",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 336
+        }
+      }
+    ]
+  },
+  "version": 1
+}

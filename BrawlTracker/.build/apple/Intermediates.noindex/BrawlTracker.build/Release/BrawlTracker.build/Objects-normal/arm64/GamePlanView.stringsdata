@@ -1,0 +1,56 @@
+{
+  "source": "/Applications/BrawlTracker/Sources/BrawlTracker/Views/GamePlanView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "·",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "YOU",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "KILL FIRST",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "No soft targets — win through the team plan",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 95
+        }
+      },
+      {
+        "comment": "",
+        "key": "RESPECT",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nothing on their side counters you",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 106
+        }
+      }
+    ]
+  },
+  "version": 1
+}

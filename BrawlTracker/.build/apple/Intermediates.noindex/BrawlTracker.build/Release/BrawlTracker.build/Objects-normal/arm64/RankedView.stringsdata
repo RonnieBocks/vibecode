@@ -1,0 +1,472 @@
+{
+  "source": "/Applications/BrawlTracker/Sources/BrawlTracker/Views/RankedView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Ranked",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "How suggestions are computed — every weight and rule is editable",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Draft Model",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ranked Draft Assistant",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld–%lld series",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "logged drafts only — the Battles tab counts every archived game",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 93
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Match",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "MATCH LOG",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 106
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap a match to review it.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 107
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ · %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 131
+        }
+      },
+      {
+        "comment": "",
+        "key": "· %@",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 208
+        }
+      },
+      {
+        "comment": "",
+        "key": "Exit",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 204
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose mode & map",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 219
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your active map pool is empty. Add maps in the Maps tab to set the ranked rotation first.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 221
+        }
+      },
+      {
+        "comment": "",
+        "key": "Coin toss",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 246
+        }
+      },
+      {
+        "comment": "",
+        "key": "Did you win the coin toss (first pick)?",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 247
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your position",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 257
+        }
+      },
+      {
+        "comment": "",
+        "key": "You're on the blue team (left). First pick sits on the outside, last pick on the inside. Tap your seat.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 258
+        }
+      },
+      {
+        "comment": "",
+        "key": "VS",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 268
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pick %lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 276
+        }
+      },
+      {
+        "comment": "",
+        "key": "You?",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 277
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enemy",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 277
+        }
+      },
+      {
+        "comment": "",
+        "key": "Draft complete",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 290
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tap each game: W = win, L = loss, X = not played.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 317
+        }
+      },
+      {
+        "comment": "",
+        "key": "Series result",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 313
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save Match",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 322
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back to draft",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 323
+        }
+      },
+      {
+        "comment": "",
+        "key": "Discard",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 324
+        }
+      },
+      {
+        "comment": "",
+        "key": "Game %lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 331
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start Drafting",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 372
+        }
+      },
+      {
+        "comment": "",
+        "key": "Undo last ban/pick (⌘Z)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 402
+        }
+      },
+      {
+        "comment": "",
+        "key": "Undo",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 399
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld/6 banned",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 413
+        }
+      },
+      {
+        "comment": "",
+        "key": "preview while the enemy picks — may shift once their pick is in",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 525
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 571
+        }
+      },
+      {
+        "comment": "",
+        "key": "Type a brawler, press Return to select",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 555
+        }
+      },
+      {
+        "comment": "",
+        "key": "Eligible",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 570
+        }
+      },
+      {
+        "comment": "",
+        "key": "Win chance",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 669
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 670
+        }
+      },
+      {
+        "comment": "",
+        "key": "Low confidence: held near even until more matches are logged",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 673
+        }
+      },
+      {
+        "comment": "",
+        "key": "COMP CHECKLIST — %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 696
+        }
+      },
+      {
+        "comment": "",
+        "key": "— %@ (%@)",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 710
+        }
+      },
+      {
+        "comment": "",
+        "key": "→ %@ (pick %lld)",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 713
+        }
+      },
+      {
+        "comment": "",
+        "key": "no seats left",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 716
+        }
+      },
+      {
+        "comment": "",
+        "key": "WATCH",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 728
+        }
+      },
+      {
+        "comment": "",
+        "key": "BEST PRACTICE",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 736
+        }
+      },
+      {
+        "comment": "",
+        "key": "VS",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 752
+        }
+      },
+      {
+        "comment": "",
+        "key": "Banned by seat %lld: %@",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 771
+        }
+      },
+      {
+        "comment": "",
+        "key": "No ban",
+        "location": {
+          "startingColumn": 114,
+          "startingLine": 771
+        }
+      },
+      {
+        "comment": "",
+        "key": "YOU",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 788
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pick %lld",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 788
+        }
+      },
+      {
+        "comment": "",
+        "key": "you",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 811
+        }
+      },
+      {
+        "comment": "",
+        "key": "seat %lld",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 811
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ — %@",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 821
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 948
+        }
+      },
+      {
+        "comment": "",
+        "key": "YOU",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 1015
+        }
+      },
+      {
+        "comment": "",
+        "key": "PICKED",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 1015
+        }
+      },
+      {
+        "comment": "",
+        "key": "BANNED",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1011
+        }
+      }
+    ]
+  },
+  "version": 1
+}

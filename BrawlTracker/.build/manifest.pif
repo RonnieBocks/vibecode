@@ -1,0 +1,1494 @@
+[
+  {
+    "contents" : {
+      "guid" : "Workspace:/Applications/BrawlTracker@11",
+      "name" : "BrawlTracker",
+      "path" : "/Applications/BrawlTracker",
+      "projects" : [
+        "845bc52370d5591cc579a9fb86176ab4d811d7109e6752cdf4e5a06f35050da4",
+        "161543f0238f197304ff35cbe5e6d164ff6e70d4718fd6e5785968d4fd1fa782"
+      ]
+    },
+    "signature" : "5e61e092728ec1cbdb1d3236c2848bb5dcf7b3e7723e0e13a4482962d08defaa",
+    "type" : "workspace"
+  },
+  {
+    "contents" : {
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+            "CLANG_ENABLE_OBJC_ARC" : "YES",
+            "CODE_SIGNING_REQUIRED" : "NO",
+            "CODE_SIGN_IDENTITY" : "",
+            "COPY_PHASE_STRIP" : "NO",
+            "DEBUG_INFORMATION_FORMAT" : "dwarf",
+            "DRIVERKIT_DEPLOYMENT_TARGET" : "19.0",
+            "DYLIB_INSTALL_NAME_BASE" : "@rpath",
+            "ENABLE_NS_ASSERTIONS" : "YES",
+            "ENABLE_TESTABILITY" : "YES",
+            "ENABLE_TESTING_SEARCH_PATHS" : "YES",
+            "ENTITLEMENTS_REQUIRED" : "NO",
+            "FRAMEWORK_SEARCH_PATHS[__platform_filter=ios;ios-simulator]" : [
+              "$(inherited)",
+              "$(PLATFORM_DIR)/Developer/Library/Frameworks"
+            ],
+            "FRAMEWORK_SEARCH_PATHS[__platform_filter=macos]" : [
+              "$(inherited)",
+              "$(PLATFORM_DIR)/Developer/Library/Frameworks"
+            ],
+            "FRAMEWORK_SEARCH_PATHS[__platform_filter=tvos;tvos-simulator]" : [
+              "$(inherited)",
+              "$(PLATFORM_DIR)/Developer/Library/Frameworks"
+            ],
+            "GCC_OPTIMIZATION_LEVEL" : "0",
+            "GCC_PREPROCESSOR_DEFINITIONS" : [
+              "$(inherited)",
+              "SWIFT_PACKAGE",
+              "DEBUG=1"
+            ],
+            "IPHONEOS_DEPLOYMENT_TARGET" : "12.0",
+            "IPHONEOS_DEPLOYMENT_TARGET[__platform_filter=ios-maccatalyst]" : "13.0",
+            "KEEP_PRIVATE_EXTERNS" : "NO",
+            "MACOSX_DEPLOYMENT_TARGET" : "14.0",
+            "ONLY_ACTIVE_ARCH" : "YES",
+            "OTHER_LDRFLAGS" : [
+
+            ],
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SDKROOT" : "auto",
+            "SDK_VARIANT" : "auto",
+            "SKIP_INSTALL" : "YES",
+            "SUPPORTED_PLATFORMS" : [
+              "$(AVAILABLE_PLATFORMS)"
+            ],
+            "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : [
+              "$(inherited)",
+              "SWIFT_PACKAGE",
+              "DEBUG"
+            ],
+            "SWIFT_INSTALL_OBJC_HEADER" : "NO",
+            "SWIFT_OBJC_INTERFACE_HEADER_NAME" : "",
+            "SWIFT_OPTIMIZATION_LEVEL" : "-Onone",
+            "TVOS_DEPLOYMENT_TARGET" : "12.0",
+            "USE_HEADERMAP" : "NO",
+            "WATCHOS_DEPLOYMENT_TARGET" : "4.0",
+            "XROS_DEPLOYMENT_TARGET" : "1.0"
+          },
+          "guid" : "PACKAGE:/Applications/BrawlTracker::BUILDCONFIG_Debug",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+            "CLANG_ENABLE_OBJC_ARC" : "YES",
+            "CODE_SIGNING_REQUIRED" : "NO",
+            "CODE_SIGN_IDENTITY" : "",
+            "COPY_PHASE_STRIP" : "YES",
+            "DEBUG_INFORMATION_FORMAT" : "dwarf-with-dsym",
+            "DRIVERKIT_DEPLOYMENT_TARGET" : "19.0",
+            "DYLIB_INSTALL_NAME_BASE" : "@rpath",
+            "ENABLE_TESTING_SEARCH_PATHS" : "YES",
+            "ENTITLEMENTS_REQUIRED" : "NO",
+            "FRAMEWORK_SEARCH_PATHS[__platform_filter=ios;ios-simulator]" : [
+              "$(inherited)",
+              "$(PLATFORM_DIR)/Developer/Library/Frameworks"
+            ],
+            "FRAMEWORK_SEARCH_PATHS[__platform_filter=macos]" : [
+              "$(inherited)",
+              "$(PLATFORM_DIR)/Developer/Library/Frameworks"
+            ],
+            "FRAMEWORK_SEARCH_PATHS[__platform_filter=tvos;tvos-simulator]" : [
+              "$(inherited)",
+              "$(PLATFORM_DIR)/Developer/Library/Frameworks"
+            ],
+            "GCC_OPTIMIZATION_LEVEL" : "s",
+            "GCC_PREPROCESSOR_DEFINITIONS" : [
+              "$(inherited)",
+              "SWIFT_PACKAGE"
+            ],
+            "IPHONEOS_DEPLOYMENT_TARGET" : "12.0",
+            "IPHONEOS_DEPLOYMENT_TARGET[__platform_filter=ios-maccatalyst]" : "13.0",
+            "KEEP_PRIVATE_EXTERNS" : "NO",
+            "MACOSX_DEPLOYMENT_TARGET" : "14.0",
+            "OTHER_LDRFLAGS" : [
+
+            ],
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SDKROOT" : "auto",
+            "SDK_VARIANT" : "auto",
+            "SKIP_INSTALL" : "YES",
+            "SUPPORTED_PLATFORMS" : [
+              "$(AVAILABLE_PLATFORMS)"
+            ],
+            "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : [
+              "$(inherited)",
+              "SWIFT_PACKAGE"
+            ],
+            "SWIFT_INSTALL_OBJC_HEADER" : "NO",
+            "SWIFT_OBJC_INTERFACE_HEADER_NAME" : "",
+            "SWIFT_OPTIMIZATION_LEVEL" : "-Owholemodule",
+            "TVOS_DEPLOYMENT_TARGET" : "12.0",
+            "USE_HEADERMAP" : "NO",
+            "WATCHOS_DEPLOYMENT_TARGET" : "4.0",
+            "XROS_DEPLOYMENT_TARGET" : "1.0"
+          },
+          "guid" : "PACKAGE:/Applications/BrawlTracker::BUILDCONFIG_Release",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "defaultConfigurationName" : "Release",
+      "developmentRegion" : "en",
+      "groupTree" : {
+        "children" : [
+          {
+            "children" : [
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_0",
+                "name" : "BrawlTrackerApp.swift",
+                "path" : "BrawlTrackerApp.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_1",
+                "name" : "Data/BattleArchiveStore.swift",
+                "path" : "Data/BattleArchiveStore.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_2",
+                "name" : "Data/DraftConfigStore.swift",
+                "path" : "Data/DraftConfigStore.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_3",
+                "name" : "Data/DraftLearning.swift",
+                "path" : "Data/DraftLearning.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_4",
+                "name" : "Data/JSONStore.swift",
+                "path" : "Data/JSONStore.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_5",
+                "name" : "Data/Keychain.swift",
+                "path" : "Data/Keychain.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_6",
+                "name" : "Data/MapDataStore.swift",
+                "path" : "Data/MapDataStore.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_7",
+                "name" : "Data/MatchLogStore.swift",
+                "path" : "Data/MatchLogStore.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_8",
+                "name" : "Data/PlayerStore.swift",
+                "path" : "Data/PlayerStore.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_9",
+                "name" : "Data/RankedSettings.swift",
+                "path" : "Data/RankedSettings.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_10",
+                "name" : "Data/ReferenceStore.swift",
+                "path" : "Data/ReferenceStore.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_11",
+                "name" : "Data/SeasonStore.swift",
+                "path" : "Data/SeasonStore.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_12",
+                "name" : "Data/SkinStore.swift",
+                "path" : "Data/SkinStore.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_13",
+                "name" : "Data/SnapshotStore.swift",
+                "path" : "Data/SnapshotStore.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_14",
+                "name" : "Data/TierListStore.swift",
+                "path" : "Data/TierListStore.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_15",
+                "name" : "Models/Battle.swift",
+                "path" : "Models/Battle.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_16",
+                "name" : "Models/BrawlAPIReference.swift",
+                "path" : "Models/BrawlAPIReference.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_17",
+                "name" : "Models/BrawlerCatalog.swift",
+                "path" : "Models/BrawlerCatalog.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_18",
+                "name" : "Models/BrawlerRarity.swift",
+                "path" : "Models/BrawlerRarity.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_19",
+                "name" : "Models/DraftChecklist.swift",
+                "path" : "Models/DraftChecklist.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_20",
+                "name" : "Models/DraftConfig.swift",
+                "path" : "Models/DraftConfig.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_21",
+                "name" : "Models/DraftEngine.swift",
+                "path" : "Models/DraftEngine.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_22",
+                "name" : "Models/DraftPlaybook.swift",
+                "path" : "Models/DraftPlaybook.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_23",
+                "name" : "Models/GameMap.swift",
+                "path" : "Models/GameMap.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_24",
+                "name" : "Models/MatchAnalysis.swift",
+                "path" : "Models/MatchAnalysis.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_25",
+                "name" : "Models/MatchRecord.swift",
+                "path" : "Models/MatchRecord.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_26",
+                "name" : "Models/MatchTips.swift",
+                "path" : "Models/MatchTips.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_27",
+                "name" : "Models/Player.swift",
+                "path" : "Models/Player.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_28",
+                "name" : "Models/UpgradeCosts.swift",
+                "path" : "Models/UpgradeCosts.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_29",
+                "name" : "Models/WinProbability.swift",
+                "path" : "Models/WinProbability.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_30",
+                "name" : "Networking/BrawlAPIClient.swift",
+                "path" : "Networking/BrawlAPIClient.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_31",
+                "name" : "Networking/DevPortalClient.swift",
+                "path" : "Networking/DevPortalClient.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_32",
+                "name" : "Views/BattlesView.swift",
+                "path" : "Views/BattlesView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_33",
+                "name" : "Views/BrawlerCard.swift",
+                "path" : "Views/BrawlerCard.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_34",
+                "name" : "Views/BrawlerDetailView.swift",
+                "path" : "Views/BrawlerDetailView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_35",
+                "name" : "Views/BrawlerIconView.swift",
+                "path" : "Views/BrawlerIconView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_36",
+                "name" : "Views/DraftModelView.swift",
+                "path" : "Views/DraftModelView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_37",
+                "name" : "Views/GamePlanView.swift",
+                "path" : "Views/GamePlanView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_38",
+                "name" : "Views/MapsView.swift",
+                "path" : "Views/MapsView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_39",
+                "name" : "Views/MatchReviewView.swift",
+                "path" : "Views/MatchReviewView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_40",
+                "name" : "Views/MyBrawlersView.swift",
+                "path" : "Views/MyBrawlersView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_41",
+                "name" : "Views/ProgressionView.swift",
+                "path" : "Views/ProgressionView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_42",
+                "name" : "Views/RankedView.swift",
+                "path" : "Views/RankedView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_43",
+                "name" : "Views/SettingsView.swift",
+                "path" : "Views/SettingsView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_44",
+                "name" : "Views/Theme.swift",
+                "path" : "Views/Theme.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_45",
+                "name" : "Views/TierListView.swift",
+                "path" : "Views/TierListView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_46",
+                "name" : "Views/UIIcon.swift",
+                "path" : "Views/UIIcon.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_47",
+                "name" : "Views/WardrobeView.swift",
+                "path" : "Views/WardrobeView.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              }
+            ],
+            "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0",
+            "name" : "Sources/BrawlTracker",
+            "path" : "Sources/BrawlTracker",
+            "sourceTree" : "<group>",
+            "type" : "group"
+          },
+          {
+            "fileType" : "file",
+            "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_1",
+            "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Resources/BrawlerIcons",
+            "path" : "/Applications/BrawlTracker/Sources/BrawlTracker/Resources/BrawlerIcons",
+            "sourceTree" : "<absolute>",
+            "type" : "file"
+          },
+          {
+            "fileType" : "file",
+            "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_2",
+            "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Resources/UIIcons",
+            "path" : "/Applications/BrawlTracker/Sources/BrawlTracker/Resources/UIIcons",
+            "sourceTree" : "<absolute>",
+            "type" : "file"
+          },
+          {
+            "fileType" : "file",
+            "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_3",
+            "name" : "/Applications/BrawlTracker/Sources/BrawlTracker/Resources/sample_player.json",
+            "path" : "/Applications/BrawlTracker/Sources/BrawlTracker/Resources/sample_player.json",
+            "sourceTree" : "<absolute>",
+            "type" : "file"
+          },
+          {
+            "children" : [
+              {
+                "fileType" : "file",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_4::REF_0",
+                "name" : "BrawlTracker_BrawlTracker.bundle",
+                "path" : "BrawlTracker_BrawlTracker.bundle",
+                "sourceTree" : "BUILT_PRODUCTS_DIR",
+                "type" : "file"
+              }
+            ],
+            "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_4",
+            "name" : "/",
+            "path" : "/",
+            "sourceTree" : "<group>",
+            "type" : "group"
+          },
+          {
+            "children" : [
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_5::REF_0",
+                "name" : "DraftEngineTests.swift",
+                "path" : "DraftEngineTests.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              },
+              {
+                "fileType" : "sourcecode.swift",
+                "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_5::REF_1",
+                "name" : "UpgradeCostsTests.swift",
+                "path" : "UpgradeCostsTests.swift",
+                "sourceTree" : "<group>",
+                "type" : "file"
+              }
+            ],
+            "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_5",
+            "name" : "Tests/BrawlTrackerTests",
+            "path" : "Tests/BrawlTrackerTests",
+            "sourceTree" : "<group>",
+            "type" : "group"
+          }
+        ],
+        "guid" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP",
+        "name" : "",
+        "path" : "",
+        "sourceTree" : "<group>",
+        "type" : "group"
+      },
+      "guid" : "PACKAGE:/Applications/BrawlTracker@11",
+      "path" : "/Applications/BrawlTracker",
+      "projectDirectory" : "/Applications/BrawlTracker",
+      "projectIsPackage" : "true",
+      "projectName" : "BrawlTracker",
+      "targets" : [
+        "b0620e6d906e51ec66441e5dd05f68d6b7034beae74bf20336eb6d8e3337d905",
+        "10924bd97ec67b65a110bb7cdea126fd172661a90aac17029e32511270c3cf07",
+        "625e1a115e225d165fe9acb329574580ba057799d0fa0cef40b77737991ee05f"
+      ]
+    },
+    "signature" : "845bc52370d5591cc579a9fb86176ab4d811d7109e6752cdf4e5a06f35050da4",
+    "type" : "project"
+  },
+  {
+    "contents" : {
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+            "CLANG_ENABLE_MODULES" : "YES",
+            "DEFINES_MODULE" : "YES",
+            "GENERATE_RESOURCE_ACCESSORS" : "YES",
+            "INSTALL_PATH" : "/usr/local/bin",
+            "LD_RUNPATH_SEARCH_PATHS" : [
+              "$(inherited)",
+              "@executable_path/../lib"
+            ],
+            "LIBRARY_SEARCH_PATHS" : [
+              "$(inherited)",
+              "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx"
+            ],
+            "OTHER_SWIFT_FLAGS" : [
+              "-package-name",
+              "brawltracker"
+            ],
+            "PACKAGE_RESOURCE_BUNDLE_NAME" : "BrawlTracker_BrawlTracker",
+            "PACKAGE_RESOURCE_TARGET_KIND" : "regular",
+            "PRODUCT_BUNDLE_IDENTIFIER" : "BrawlTracker",
+            "PRODUCT_MODULE_NAME" : "BrawlTracker",
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SKIP_INSTALL" : "NO",
+            "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : [
+              "$(inherited)",
+              "SWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE"
+            ],
+            "SWIFT_VERSION" : "5",
+            "TARGET_NAME" : "BrawlTracker"
+          },
+          "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDCONFIG_Debug",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+            "CLANG_ENABLE_MODULES" : "YES",
+            "DEFINES_MODULE" : "YES",
+            "GENERATE_RESOURCE_ACCESSORS" : "YES",
+            "INSTALL_PATH" : "/usr/local/bin",
+            "LD_RUNPATH_SEARCH_PATHS" : [
+              "$(inherited)",
+              "@executable_path/../lib"
+            ],
+            "LIBRARY_SEARCH_PATHS" : [
+              "$(inherited)",
+              "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx"
+            ],
+            "OTHER_SWIFT_FLAGS" : [
+              "-package-name",
+              "brawltracker"
+            ],
+            "PACKAGE_RESOURCE_BUNDLE_NAME" : "BrawlTracker_BrawlTracker",
+            "PACKAGE_RESOURCE_TARGET_KIND" : "regular",
+            "PRODUCT_BUNDLE_IDENTIFIER" : "BrawlTracker",
+            "PRODUCT_MODULE_NAME" : "BrawlTracker",
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SKIP_INSTALL" : "NO",
+            "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : [
+              "$(inherited)",
+              "SWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE"
+            ],
+            "SWIFT_VERSION" : "5",
+            "TARGET_NAME" : "BrawlTracker"
+          },
+          "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDCONFIG_Release",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "buildPhases" : [
+        {
+          "buildFiles" : [
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_0",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::0",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_1",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::1",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_2",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::2",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_3",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::3",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_4",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::4",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_5",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::5",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_6",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::6",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_7",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::7",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_8",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::8",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_9",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::9",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_10",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::10",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_11",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::11",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_12",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::12",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_13",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::13",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_14",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::14",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_15",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::15",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_16",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::16",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_17",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::17",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_18",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::18",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_19",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::19",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_20",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::20",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_21",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::21",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_22",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::22",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_23",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::23",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_24",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::24",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_25",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::25",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_26",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::26",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_27",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::27",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_28",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::28",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_29",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::29",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_30",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::30",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_31",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::31",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_32",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::32",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_33",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::33",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_34",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::34",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_35",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::35",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_36",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::36",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_37",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::37",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_38",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::38",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_39",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::39",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_40",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::40",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_41",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::41",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_42",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::42",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_43",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::43",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_44",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::44",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_45",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::45",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_46",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::46",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_0::REF_47",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0::47",
+              "platformFilters" : [
+
+              ]
+            }
+          ],
+          "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_0",
+          "type" : "com.apple.buildphase.sources"
+        },
+        {
+          "buildFiles" : [
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_4::REF_0",
+              "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_1::0",
+              "platformFilters" : [
+
+              ]
+            }
+          ],
+          "guid" : "PACKAGE-PRODUCT:BrawlTracker::BUILDPHASE_1",
+          "type" : "com.apple.buildphase.resources"
+        }
+      ],
+      "buildRules" : [
+
+      ],
+      "dependencies" : [
+        {
+          "guid" : "PACKAGE-RESOURCE:BrawlTracker@11"
+        }
+      ],
+      "guid" : "PACKAGE-PRODUCT:BrawlTracker@11",
+      "impartedBuildProperties" : {
+        "buildSettings" : {
+
+        }
+      },
+      "name" : "BrawlTracker_-15FC44FD53FAF230_PackageProduct",
+      "productReference" : {
+        "guid" : "PRODUCTREF-PACKAGE-PRODUCT:BrawlTracker",
+        "name" : "BrawlTracker",
+        "type" : "file"
+      },
+      "productTypeIdentifier" : "com.apple.product-type.tool",
+      "type" : "standard"
+    },
+    "signature" : "b0620e6d906e51ec66441e5dd05f68d6b7034beae74bf20336eb6d8e3337d905",
+    "type" : "target"
+  },
+  {
+    "contents" : {
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+            "GENERATE_INFOPLIST_FILE" : "YES",
+            "PACKAGE_RESOURCE_TARGET_KIND" : "resource",
+            "PRODUCT_BUNDLE_IDENTIFIER" : "BrawlTracker.BrawlTracker.resources",
+            "PRODUCT_MODULE_NAME" : "BrawlTracker_BrawlTracker",
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "TARGET_NAME" : "BrawlTracker_BrawlTracker"
+          },
+          "guid" : "PACKAGE-RESOURCE:BrawlTracker::BUILDCONFIG_Debug",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+            "GENERATE_INFOPLIST_FILE" : "YES",
+            "PACKAGE_RESOURCE_TARGET_KIND" : "resource",
+            "PRODUCT_BUNDLE_IDENTIFIER" : "BrawlTracker.BrawlTracker.resources",
+            "PRODUCT_MODULE_NAME" : "BrawlTracker_BrawlTracker",
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "TARGET_NAME" : "BrawlTracker_BrawlTracker"
+          },
+          "guid" : "PACKAGE-RESOURCE:BrawlTracker::BUILDCONFIG_Release",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "buildPhases" : [
+        {
+          "buildFiles" : [
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_1",
+              "guid" : "PACKAGE-RESOURCE:BrawlTracker::BUILDPHASE_0::0",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_2",
+              "guid" : "PACKAGE-RESOURCE:BrawlTracker::BUILDPHASE_0::1",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_3",
+              "guid" : "PACKAGE-RESOURCE:BrawlTracker::BUILDPHASE_0::2",
+              "platformFilters" : [
+
+              ]
+            }
+          ],
+          "guid" : "PACKAGE-RESOURCE:BrawlTracker::BUILDPHASE_0",
+          "type" : "com.apple.buildphase.resources"
+        }
+      ],
+      "buildRules" : [
+
+      ],
+      "dependencies" : [
+
+      ],
+      "guid" : "PACKAGE-RESOURCE:BrawlTracker@11",
+      "impartedBuildProperties" : {
+        "buildSettings" : {
+
+        }
+      },
+      "name" : "BrawlTracker_BrawlTracker",
+      "productReference" : {
+        "guid" : "PRODUCTREF-PACKAGE-RESOURCE:BrawlTracker",
+        "name" : "BrawlTracker_BrawlTracker",
+        "type" : "file"
+      },
+      "productTypeIdentifier" : "com.apple.product-type.bundle",
+      "type" : "standard"
+    },
+    "signature" : "10924bd97ec67b65a110bb7cdea126fd172661a90aac17029e32511270c3cf07",
+    "type" : "target"
+  },
+  {
+    "contents" : {
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+            "CLANG_ENABLE_MODULES" : "YES",
+            "DEFINES_MODULE" : "YES",
+            "GENERATE_INFOPLIST_FILE" : "YES",
+            "IPHONEOS_DEPLOYMENT_TARGET" : "13.0",
+            "LD_RUNPATH_SEARCH_PATHS" : [
+              "$(inherited)",
+              "@loader_path/Frameworks",
+              "@loader_path/../Frameworks"
+            ],
+            "LIBRARY_SEARCH_PATHS" : [
+              "$(inherited)",
+              "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx"
+            ],
+            "MACOSX_DEPLOYMENT_TARGET" : "14.0",
+            "OTHER_SWIFT_FLAGS" : [
+              "-package-name",
+              "brawltracker"
+            ],
+            "PACKAGE_RESOURCE_TARGET_KIND" : "regular",
+            "PRODUCT_BUNDLE_IDENTIFIER" : "BrawlTrackerTests",
+            "PRODUCT_MODULE_NAME" : "BrawlTrackerTests",
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : [
+              "$(inherited)",
+              "SWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE"
+            ],
+            "SWIFT_VERSION" : "5",
+            "TARGET_NAME" : "BrawlTrackerTests",
+            "TVOS_DEPLOYMENT_TARGET" : "13.0",
+            "WATCHOS_DEPLOYMENT_TARGET" : "7.0",
+            "XROS_DEPLOYMENT_TARGET" : "1.0"
+          },
+          "guid" : "PACKAGE-PRODUCT:BrawlTrackerTests::BUILDCONFIG_Debug",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+            "CLANG_ENABLE_MODULES" : "YES",
+            "DEFINES_MODULE" : "YES",
+            "GENERATE_INFOPLIST_FILE" : "YES",
+            "IPHONEOS_DEPLOYMENT_TARGET" : "13.0",
+            "LD_RUNPATH_SEARCH_PATHS" : [
+              "$(inherited)",
+              "@loader_path/Frameworks",
+              "@loader_path/../Frameworks"
+            ],
+            "LIBRARY_SEARCH_PATHS" : [
+              "$(inherited)",
+              "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx"
+            ],
+            "MACOSX_DEPLOYMENT_TARGET" : "14.0",
+            "OTHER_SWIFT_FLAGS" : [
+              "-package-name",
+              "brawltracker"
+            ],
+            "PACKAGE_RESOURCE_TARGET_KIND" : "regular",
+            "PRODUCT_BUNDLE_IDENTIFIER" : "BrawlTrackerTests",
+            "PRODUCT_MODULE_NAME" : "BrawlTrackerTests",
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SWIFT_ACTIVE_COMPILATION_CONDITIONS" : [
+              "$(inherited)",
+              "SWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE"
+            ],
+            "SWIFT_VERSION" : "5",
+            "TARGET_NAME" : "BrawlTrackerTests",
+            "TVOS_DEPLOYMENT_TARGET" : "13.0",
+            "WATCHOS_DEPLOYMENT_TARGET" : "7.0",
+            "XROS_DEPLOYMENT_TARGET" : "1.0"
+          },
+          "guid" : "PACKAGE-PRODUCT:BrawlTrackerTests::BUILDCONFIG_Release",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "buildPhases" : [
+        {
+          "buildFiles" : [
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_5::REF_0",
+              "guid" : "PACKAGE-PRODUCT:BrawlTrackerTests::BUILDPHASE_0::0",
+              "platformFilters" : [
+
+              ]
+            },
+            {
+              "fileReference" : "PACKAGE:/Applications/BrawlTracker::MAINGROUP::REF_5::REF_1",
+              "guid" : "PACKAGE-PRODUCT:BrawlTrackerTests::BUILDPHASE_0::1",
+              "platformFilters" : [
+
+              ]
+            }
+          ],
+          "guid" : "PACKAGE-PRODUCT:BrawlTrackerTests::BUILDPHASE_0",
+          "type" : "com.apple.buildphase.sources"
+        }
+      ],
+      "buildRules" : [
+
+      ],
+      "dependencies" : [
+        {
+          "guid" : "PACKAGE-PRODUCT:BrawlTracker@11"
+        }
+      ],
+      "guid" : "PACKAGE-PRODUCT:BrawlTrackerTests@11",
+      "impartedBuildProperties" : {
+        "buildSettings" : {
+
+        }
+      },
+      "name" : "BrawlTrackerTests_743D08F43CA34DE8_PackageProduct",
+      "productReference" : {
+        "guid" : "PRODUCTREF-PACKAGE-PRODUCT:BrawlTrackerTests",
+        "name" : "BrawlTrackerTests",
+        "type" : "file"
+      },
+      "productTypeIdentifier" : "com.apple.product-type.bundle.unit-test",
+      "type" : "standard"
+    },
+    "signature" : "625e1a115e225d165fe9acb329574580ba057799d0fa0cef40b77737991ee05f",
+    "type" : "target"
+  },
+  {
+    "contents" : {
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SDKROOT" : "auto",
+            "SDK_VARIANT" : "auto",
+            "SKIP_INSTALL" : "YES",
+            "SUPPORTED_PLATFORMS" : [
+              "$(AVAILABLE_PLATFORMS)"
+            ]
+          },
+          "guid" : "AGGREGATE::BUILDCONFIG_Debug",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+            "PRODUCT_NAME" : "$(TARGET_NAME)",
+            "SDKROOT" : "auto",
+            "SDK_VARIANT" : "auto",
+            "SKIP_INSTALL" : "YES",
+            "SUPPORTED_PLATFORMS" : [
+              "$(AVAILABLE_PLATFORMS)"
+            ]
+          },
+          "guid" : "AGGREGATE::BUILDCONFIG_Release",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "defaultConfigurationName" : "Release",
+      "developmentRegion" : "en",
+      "groupTree" : {
+        "children" : [
+
+        ],
+        "guid" : "AGGREGATE::MAINGROUP",
+        "name" : "",
+        "path" : "",
+        "sourceTree" : "<group>",
+        "type" : "group"
+      },
+      "guid" : "AGGREGATE@11",
+      "path" : "/Applications/BrawlTracker",
+      "projectDirectory" : "/Applications/BrawlTracker",
+      "projectIsPackage" : "true",
+      "projectName" : "Aggregate",
+      "targets" : [
+        "88951536ca84adebbc58bee893b6a246cd1e34c54b122291a4c9356c15b2d87a",
+        "812e1dfe4a3d171be546986c8dafa9be8eeaa8f2605d09229f0bcce73d2c8e99"
+      ]
+    },
+    "signature" : "161543f0238f197304ff35cbe5e6d164ff6e70d4718fd6e5785968d4fd1fa782",
+    "type" : "project"
+  },
+  {
+    "contents" : {
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+
+          },
+          "guid" : "ALL-EXCLUDING-TESTS::BUILDCONFIG_Debug",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+
+          },
+          "guid" : "ALL-EXCLUDING-TESTS::BUILDCONFIG_Release",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "buildPhases" : [
+
+      ],
+      "dependencies" : [
+        {
+          "guid" : "PACKAGE-PRODUCT:BrawlTracker@11"
+        },
+        {
+          "guid" : "PACKAGE-RESOURCE:BrawlTracker@11"
+        }
+      ],
+      "guid" : "ALL-EXCLUDING-TESTS@11",
+      "impartedBuildProperties" : {
+        "buildSettings" : {
+
+        }
+      },
+      "name" : "AllExcludingTests",
+      "type" : "aggregate"
+    },
+    "signature" : "88951536ca84adebbc58bee893b6a246cd1e34c54b122291a4c9356c15b2d87a",
+    "type" : "target"
+  },
+  {
+    "contents" : {
+      "buildConfigurations" : [
+        {
+          "buildSettings" : {
+
+          },
+          "guid" : "ALL-INCLUDING-TESTS::BUILDCONFIG_Debug",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Debug"
+        },
+        {
+          "buildSettings" : {
+
+          },
+          "guid" : "ALL-INCLUDING-TESTS::BUILDCONFIG_Release",
+          "impartedBuildProperties" : {
+            "buildSettings" : {
+
+            }
+          },
+          "name" : "Release"
+        }
+      ],
+      "buildPhases" : [
+
+      ],
+      "dependencies" : [
+        {
+          "guid" : "PACKAGE-PRODUCT:BrawlTracker@11"
+        },
+        {
+          "guid" : "PACKAGE-RESOURCE:BrawlTracker@11"
+        },
+        {
+          "guid" : "PACKAGE-PRODUCT:BrawlTrackerTests@11"
+        }
+      ],
+      "guid" : "ALL-INCLUDING-TESTS@11",
+      "impartedBuildProperties" : {
+        "buildSettings" : {
+
+        }
+      },
+      "name" : "AllIncludingTests",
+      "type" : "aggregate"
+    },
+    "signature" : "812e1dfe4a3d171be546986c8dafa9be8eeaa8f2605d09229f0bcce73d2c8e99",
+    "type" : "target"
+  }
+]

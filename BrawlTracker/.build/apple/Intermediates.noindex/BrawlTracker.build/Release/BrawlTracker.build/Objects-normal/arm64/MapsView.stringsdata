@@ -1,0 +1,264 @@
+{
+  "source": "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MapsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Autofill rotation",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "Loading maps…",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "No map data",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Couldn't load maps from BrawlAPI. Check your connection and try again.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Import the live event rotation into this pool (ranked slots preferred when present)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Autofill rotation",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Maps",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pool",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Pool…",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Duplicate…",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rename…",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 61
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Season / pool name",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "This pool is empty",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 97
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add maps from the full catalog to build this season's rotation.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Maps",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 101
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add to %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 158
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld selected",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 160
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 161
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld maps",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 179
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search maps",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 166
+        }
+      },
+      {
+        "comment": "",
+        "key": "Selected only",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 177
+        }
+      },
+      {
+        "comment": "",
+        "key": "Game Mode",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 170
+        }
+      },
+      {
+        "comment": "",
+        "key": "All Modes",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 171
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove from this pool",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 245
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add to this pool",
+        "location": {
+          "startingColumn": 62,
+          "startingLine": 245
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 286
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ — %lld map%@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 280
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 346
+        }
+      }
+    ]
+  },
+  "version": 1
+}
