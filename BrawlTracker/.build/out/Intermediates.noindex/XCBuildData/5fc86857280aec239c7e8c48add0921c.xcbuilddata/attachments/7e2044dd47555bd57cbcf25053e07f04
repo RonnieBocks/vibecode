@@ -1,0 +1,89 @@
+{
+  "" : {
+    "diagnostics" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlTracker-primary.dia",
+    "emit-module-dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlTracker-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlTracker-primary-emit-module.dia",
+    "pch" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlTracker-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlTracker-primary.swiftdeps"
+  },
+  "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "const-values" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/resource_bundle_accessor.swiftconstvalues",
+    "dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/resource_bundle_accessor.d",
+    "diagnostics" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/resource_bundle_accessor.dia",
+    "index-unit-output-path" : "/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/resource_bundle_accessor.bc",
+    "object" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "swift-dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/resource_bundle_accessor.swiftdeps",
+    "swiftmodule" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/resource_bundle_accessor~partial.swiftmodule"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/BrawlTrackerApp.swift" : {
+    "const-values" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlTrackerApp.swiftconstvalues",
+    "dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlTrackerApp.d",
+    "diagnostics" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlTrackerApp.dia",
+    "index-unit-output-path" : "/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlTrackerApp.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlTrackerApp.bc",
+    "object" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlTrackerApp.o",
+    "swift-dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlTrackerApp.swiftdeps",
+    "swiftmodule" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlTrackerApp~partial.swiftmodule"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/PlayerStore.swift" : {
+    "const-values" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/PlayerStore.swiftconstvalues",
+    "dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/PlayerStore.d",
+    "diagnostics" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/PlayerStore.dia",
+    "index-unit-output-path" : "/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/PlayerStore.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/PlayerStore.bc",
+    "object" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/PlayerStore.o",
+    "swift-dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/PlayerStore.swiftdeps",
+    "swiftmodule" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/PlayerStore~partial.swiftmodule"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/Player.swift" : {
+    "const-values" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/Player.swiftconstvalues",
+    "dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/Player.d",
+    "diagnostics" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/Player.dia",
+    "index-unit-output-path" : "/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/Player.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/Player.bc",
+    "object" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/Player.o",
+    "swift-dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/Player.swiftdeps",
+    "swiftmodule" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/Player~partial.swiftmodule"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerCard.swift" : {
+    "const-values" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerCard.swiftconstvalues",
+    "dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerCard.d",
+    "diagnostics" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerCard.dia",
+    "index-unit-output-path" : "/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerCard.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerCard.bc",
+    "object" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerCard.o",
+    "swift-dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerCard.swiftdeps",
+    "swiftmodule" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerCard~partial.swiftmodule"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerDetailView.swift" : {
+    "const-values" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerDetailView.swiftconstvalues",
+    "dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerDetailView.d",
+    "diagnostics" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerDetailView.dia",
+    "index-unit-output-path" : "/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerDetailView.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerDetailView.bc",
+    "object" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerDetailView.o",
+    "swift-dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerDetailView.swiftdeps",
+    "swiftmodule" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerDetailView~partial.swiftmodule"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerIconView.swift" : {
+    "const-values" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerIconView.swiftconstvalues",
+    "dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerIconView.d",
+    "diagnostics" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerIconView.dia",
+    "index-unit-output-path" : "/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerIconView.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerIconView.bc",
+    "object" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerIconView.o",
+    "swift-dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerIconView.swiftdeps",
+    "swiftmodule" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/BrawlerIconView~partial.swiftmodule"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MyBrawlersView.swift" : {
+    "const-values" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/MyBrawlersView.swiftconstvalues",
+    "dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/MyBrawlersView.d",
+    "diagnostics" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/MyBrawlersView.dia",
+    "index-unit-output-path" : "/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/MyBrawlersView.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/MyBrawlersView.bc",
+    "object" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/MyBrawlersView.o",
+    "swift-dependencies" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/MyBrawlersView.swiftdeps",
+    "swiftmodule" : "/Applications/BrawlTracker/.build/out/Intermediates.noindex/BrawlTracker.build/Debug/BrawlTracker-p.build/Objects-normal/arm64/MyBrawlersView~partial.swiftmodule"
+  }
+}

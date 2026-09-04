@@ -1,0 +1,128 @@
+{
+  "source": "/Applications/BrawlTracker/Sources/BrawlTracker/Views/SettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Connect your account",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Player tag",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 19
+        }
+      },
+      {
+        "comment": "",
+        "key": "Find it under your profile in Brawl Stars.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "#2PP0LV",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "API token",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create a key at developer.brawlstars.com → My Account → Create New Key, whitelisted to this Mac's public IP. Stored securely in your Keychain.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "eyJ...",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "When your home IP changes and the API returns 403, the app logs into developer.brawlstars.com, revokes its old “BrawlTracker” key and creates a new one for the detected IP. Credentials stay in your Keychain.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Automatic key renewal (optional)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Developer portal email",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Developer portal password",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Open developer portal",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Saving…",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save & Fetch",
+        "location": {
+          "startingColumn": 47,
+          "startingLine": 54
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,530 @@
+{
+  "": {
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/primary.swiftdeps"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/BrawlTrackerApp.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlTrackerApp.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlTrackerApp.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlTrackerApp~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlTrackerApp.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlTrackerApp.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/BattleArchiveStore.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BattleArchiveStore.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BattleArchiveStore.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BattleArchiveStore~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BattleArchiveStore.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BattleArchiveStore.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftConfigStore.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftConfigStore.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftConfigStore.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftConfigStore~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftConfigStore.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftConfigStore.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftLearning.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftLearning.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftLearning.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftLearning~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftLearning.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftLearning.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftSessionStore.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftSessionStore.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftSessionStore.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftSessionStore~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftSessionStore.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftSessionStore.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/JSONStore.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/JSONStore.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/JSONStore.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/JSONStore~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/JSONStore.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/JSONStore.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/Keychain.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Keychain.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Keychain.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Keychain~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Keychain.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Keychain.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/MapDataStore.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MapDataStore.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MapDataStore.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MapDataStore~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MapDataStore.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MapDataStore.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/MatchLogStore.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchLogStore.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchLogStore.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchLogStore~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchLogStore.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchLogStore.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/PlayerStore.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/PlayerStore.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/PlayerStore.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/PlayerStore~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/PlayerStore.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/PlayerStore.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/RankedSettings.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/RankedSettings.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/RankedSettings.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/RankedSettings~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/RankedSettings.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/RankedSettings.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/ReferenceStore.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/ReferenceStore.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/ReferenceStore.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/ReferenceStore~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/ReferenceStore.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/ReferenceStore.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SeasonStore.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeasonStore.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeasonStore.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeasonStore~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeasonStore.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeasonStore.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SkinStore.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SkinStore.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SkinStore.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SkinStore~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SkinStore.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SkinStore.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SnapshotStore.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SnapshotStore.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SnapshotStore.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SnapshotStore~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SnapshotStore.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SnapshotStore.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/TierListStore.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/TierListStore.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/TierListStore.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/TierListStore~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/TierListStore.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/TierListStore.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/Battle.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Battle.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Battle.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Battle~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Battle.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Battle.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlAPIReference.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlAPIReference.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlAPIReference.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlAPIReference~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlAPIReference.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlAPIReference.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlerCatalog.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerCatalog.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerCatalog.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerCatalog~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerCatalog.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerCatalog.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlerRarity.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerRarity.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerRarity.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerRarity~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerRarity.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerRarity.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftChecklist.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftChecklist.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftChecklist.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftChecklist~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftChecklist.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftChecklist.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftConfig.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftConfig.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftConfig.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftConfig~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftConfig.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftConfig.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/ArchitectureBoundary.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/ArchitectureBoundary.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/ArchitectureBoundary.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/ArchitectureBoundary~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/ArchitectureBoundary.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/ArchitectureBoundary.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/AuthoringMetadata.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/AuthoringMetadata.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/AuthoringMetadata.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/AuthoringMetadata~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/AuthoringMetadata.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/AuthoringMetadata.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BalanceState.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BalanceState.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BalanceState.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BalanceState~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BalanceState.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BalanceState.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerAttribute.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerAttribute.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerAttribute.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerAttribute~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerAttribute.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerAttribute.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerIdentity.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerIdentity.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerIdentity.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerIdentity~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerIdentity.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerIdentity.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerKey.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerKey.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerKey.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerKey~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerKey.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerKey.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/BrawlerProfile.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerProfile.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerProfile.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerProfile~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerProfile.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerProfile.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/Capability.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Capability.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Capability.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Capability~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Capability.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Capability.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/CapabilityModel.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/CapabilityModel.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/CapabilityModel.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/CapabilityModel~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/CapabilityModel.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/CapabilityModel.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/CapabilityResolver.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/CapabilityResolver.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/CapabilityResolver.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/CapabilityResolver~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/CapabilityResolver.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/CapabilityResolver.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/DraftCoreSchema.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftCoreSchema.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftCoreSchema.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftCoreSchema~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftCoreSchema.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftCoreSchema.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/DraftFunction.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftFunction.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftFunction.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftFunction~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftFunction.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftFunction.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/FormOverride.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/FormOverride.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/FormOverride.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/FormOverride~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/FormOverride.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/FormOverride.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/Interaction.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Interaction.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Interaction.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Interaction~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Interaction.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Interaction.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/InteractionModel.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/InteractionModel.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/InteractionModel.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/InteractionModel~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/InteractionModel.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/InteractionModel.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/PilotRoster.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/PilotRoster.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/PilotRoster.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/PilotRoster~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/PilotRoster.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/PilotRoster.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/RankedSeason.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/RankedSeason.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/RankedSeason.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/RankedSeason~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/RankedSeason.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/RankedSeason.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch1.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch1.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch1.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch1~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch1.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch1.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch2.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch2.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch2.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch2~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch2.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch2.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch3.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch3.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch3.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch3~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch3.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch3.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch4.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch4.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch4.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch4~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch4.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch4.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster+Batch5.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch5.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch5.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch5~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch5.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster+Batch5.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/SeededRoster.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SeededRoster.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftCore/Trait.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Trait.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Trait.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Trait~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Trait.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Trait.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftEngine.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftEngine.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftEngine.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftEngine~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftEngine.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftEngine.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftPlaybook.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftPlaybook.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftPlaybook.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftPlaybook~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftPlaybook.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftPlaybook.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/GameMap.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/GameMap.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/GameMap.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/GameMap~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/GameMap.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/GameMap.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchAnalysis.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchAnalysis.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchAnalysis.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchAnalysis~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchAnalysis.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchAnalysis.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchRecord.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchRecord.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchRecord.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchRecord~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchRecord.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchRecord.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchTips.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchTips.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchTips.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchTips~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchTips.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchTips.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/Player.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Player.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Player.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Player~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Player.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Player.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/UpgradeCosts.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/UpgradeCosts.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/UpgradeCosts.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/UpgradeCosts~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/UpgradeCosts.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/UpgradeCosts.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/WinProbability.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/WinProbability.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/WinProbability.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/WinProbability~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/WinProbability.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/WinProbability.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Networking/BrawlAPIClient.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlAPIClient.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlAPIClient.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlAPIClient~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlAPIClient.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlAPIClient.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Networking/DevPortalClient.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DevPortalClient.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DevPortalClient.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DevPortalClient~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DevPortalClient.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DevPortalClient.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BattlesView.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BattlesView.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BattlesView.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BattlesView~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BattlesView.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BattlesView.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerCard.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerCard.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerCard.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerCard~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerCard.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerCard.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerDetailView.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerDetailView.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerDetailView.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerDetailView~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerDetailView.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerDetailView.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerIconView.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerIconView.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerIconView.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerIconView~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerIconView.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/BrawlerIconView.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/DraftModelView.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftModelView.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftModelView.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftModelView~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftModelView.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DraftModelView.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/GamePlanView.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/GamePlanView.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/GamePlanView.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/GamePlanView~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/GamePlanView.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/GamePlanView.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MapsView.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MapsView.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MapsView.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MapsView~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MapsView.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MapsView.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MatchNotesEditor.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchNotesEditor.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchNotesEditor.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchNotesEditor~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchNotesEditor.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchNotesEditor.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MatchReviewView.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchReviewView.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchReviewView.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchReviewView~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchReviewView.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MatchReviewView.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MyBrawlersView.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MyBrawlersView.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MyBrawlersView.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MyBrawlersView~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MyBrawlersView.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/MyBrawlersView.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/ProgressionView.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/ProgressionView.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/ProgressionView.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/ProgressionView~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/ProgressionView.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/ProgressionView.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/RankedView.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/RankedView.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/RankedView.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/RankedView~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/RankedView.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/RankedView.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/SettingsView.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SettingsView.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SettingsView.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SettingsView.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/SettingsView.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/Theme.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Theme.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Theme.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Theme~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Theme.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/Theme.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/TierListView.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/TierListView.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/TierListView.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/TierListView~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/TierListView.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/TierListView.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/UIIcon.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/UIIcon.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/UIIcon.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/UIIcon~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/UIIcon.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/UIIcon.dia"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/WardrobeView.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/WardrobeView.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/WardrobeView.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/WardrobeView~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/WardrobeView.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/WardrobeView.dia"
+  },
+  "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/resource_bundle_accessor.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTracker.build/resource_bundle_accessor.dia"
+  }
+}

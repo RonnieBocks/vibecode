@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTrackerPackageTests.build/primary.swiftdeps"
+  },
+  "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTrackerPackageTests.derived/runner.swift": {
+    "dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTrackerPackageTests.build/runner.d",
+    "object": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTrackerPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTrackerPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTrackerPackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Applications/BrawlTracker/.build/arm64-apple-macosx/debug/BrawlTrackerPackageTests.build/runner.dia"
+  }
+}

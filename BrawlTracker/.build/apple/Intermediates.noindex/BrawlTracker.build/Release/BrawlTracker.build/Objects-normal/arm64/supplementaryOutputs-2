@@ -1,0 +1,11 @@
+{
+  "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "abi-baseline-json" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/arm64/BrawlTracker.abi.json",
+    "const-values" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/arm64/BrawlTracker-primary.swiftconstvalues",
+    "dependencies" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/arm64/BrawlTracker-primary.d",
+    "diagnostics" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/arm64/BrawlTracker-primary.dia",
+    "swiftdoc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/arm64/BrawlTracker.swiftdoc",
+    "swiftmodule" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/arm64/BrawlTracker.swiftmodule",
+    "swiftsourceinfo" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/arm64/BrawlTracker.swiftsourceinfo"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "" : {
+    "const-values" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlTracker-primary.swiftconstvalues",
+    "dependencies" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlTracker-primary.d",
+    "diagnostics" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlTracker-primary.dia",
+    "emit-module-dependencies" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlTracker-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlTracker-primary-emit-module.dia",
+    "pch" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlTracker-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlTracker-primary.swiftdeps"
+  },
+  "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/resource_bundle_accessor.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/resource_bundle_accessor.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/BrawlTrackerApp.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlTrackerApp.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlTrackerApp.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlTrackerApp.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/BattleArchiveStore.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BattleArchiveStore.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BattleArchiveStore.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BattleArchiveStore.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftConfigStore.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftConfigStore.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftConfigStore.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftConfigStore.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/DraftLearning.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftLearning.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftLearning.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftLearning.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/JSONStore.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/JSONStore.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/JSONStore.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/JSONStore.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/Keychain.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/Keychain.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/Keychain.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/Keychain.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/MapDataStore.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MapDataStore.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MapDataStore.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MapDataStore.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/MatchLogStore.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MatchLogStore.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MatchLogStore.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MatchLogStore.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/PlayerStore.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/PlayerStore.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/PlayerStore.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/PlayerStore.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/RankedSettings.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/RankedSettings.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/RankedSettings.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/RankedSettings.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/ReferenceStore.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/ReferenceStore.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/ReferenceStore.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/ReferenceStore.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SeasonStore.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/SeasonStore.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/SeasonStore.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/SeasonStore.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SkinStore.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/SkinStore.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/SkinStore.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/SkinStore.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/SnapshotStore.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/SnapshotStore.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/SnapshotStore.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/SnapshotStore.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Data/TierListStore.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/TierListStore.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/TierListStore.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/TierListStore.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/Battle.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/Battle.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/Battle.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/Battle.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlAPIReference.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlAPIReference.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlAPIReference.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlAPIReference.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlerCatalog.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlerCatalog.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlerCatalog.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlerCatalog.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/BrawlerRarity.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlerRarity.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlerRarity.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlerRarity.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftChecklist.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftChecklist.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftChecklist.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftChecklist.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftConfig.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftConfig.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftConfig.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftConfig.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftEngine.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftEngine.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftEngine.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftEngine.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/DraftPlaybook.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftPlaybook.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftPlaybook.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftPlaybook.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/GameMap.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/GameMap.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/GameMap.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/GameMap.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchAnalysis.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MatchAnalysis.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MatchAnalysis.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MatchAnalysis.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchRecord.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MatchRecord.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MatchRecord.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MatchRecord.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/MatchTips.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MatchTips.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MatchTips.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MatchTips.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/Player.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/Player.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/Player.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/Player.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/UpgradeCosts.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/UpgradeCosts.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/UpgradeCosts.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/UpgradeCosts.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Models/WinProbability.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/WinProbability.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/WinProbability.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/WinProbability.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Networking/BrawlAPIClient.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlAPIClient.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlAPIClient.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlAPIClient.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Networking/DevPortalClient.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DevPortalClient.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DevPortalClient.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DevPortalClient.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BattlesView.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BattlesView.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BattlesView.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BattlesView.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerCard.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlerCard.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlerCard.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlerCard.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerDetailView.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlerDetailView.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlerDetailView.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlerDetailView.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/BrawlerIconView.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlerIconView.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlerIconView.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/BrawlerIconView.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/DraftModelView.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftModelView.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftModelView.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/DraftModelView.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/GamePlanView.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/GamePlanView.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/GamePlanView.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/GamePlanView.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MapsView.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MapsView.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MapsView.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MapsView.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MatchReviewView.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MatchReviewView.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MatchReviewView.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MatchReviewView.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/MyBrawlersView.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MyBrawlersView.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MyBrawlersView.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/MyBrawlersView.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/ProgressionView.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/ProgressionView.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/ProgressionView.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/ProgressionView.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/RankedView.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/RankedView.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/RankedView.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/RankedView.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/SettingsView.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/SettingsView.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/SettingsView.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/SettingsView.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/Theme.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/Theme.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/Theme.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/Theme.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/TierListView.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/TierListView.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/TierListView.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/TierListView.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/UIIcon.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/UIIcon.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/UIIcon.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/UIIcon.o"
+  },
+  "/Applications/BrawlTracker/Sources/BrawlTracker/Views/WardrobeView.swift" : {
+    "index-unit-output-path" : "/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/WardrobeView.o",
+    "llvm-bc" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/WardrobeView.bc",
+    "object" : "/Applications/BrawlTracker/.build/apple/Intermediates.noindex/BrawlTracker.build/Release/BrawlTracker.build/Objects-normal/x86_64/WardrobeView.o"
+  }
+}

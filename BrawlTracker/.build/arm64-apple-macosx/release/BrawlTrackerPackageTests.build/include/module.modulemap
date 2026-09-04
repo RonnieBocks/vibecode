@@ -1,0 +1,3 @@
+module BrawlTrackerPackageTests {
+    header "/Applications/BrawlTracker/.build/arm64-apple-macosx/release/BrawlTrackerPackageTests.build/include/BrawlTrackerPackageTests-Swift.h"
+}

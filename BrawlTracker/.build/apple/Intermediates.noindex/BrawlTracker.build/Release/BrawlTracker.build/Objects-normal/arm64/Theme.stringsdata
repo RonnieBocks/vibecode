@@ -1,0 +1,24 @@
+{
+  "source": "/Applications/BrawlTracker/Sources/BrawlTracker/Views/Theme.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "GET SET UP",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Connect",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 44
+        }
+      }
+    ]
+  },
+  "version": 1
+}
